@@ -1,3 +1,14 @@
+Project Raindeer MicroUpdate (12/4/25)
+
+The world is now using SDK Version 3.9.1-beta2 to see if that fixes the issue with the Camera Height Values not applying in-game.
+
+Part 1:
+* Added Bridge Footstep Sounds
+
+Both Parts:
+* Updated Player Icons
+* Hid some text blocks & Scavenger Hunt items from the MMD Camera.
+
 As of 12/4/25, there is an issue where the camera height values are not updating despite them updating in the Client Sim. I don't know what's going on but I may have to get in touch with VRC to take a look at this. I'm sorry but you'll need to deal with whatever values are set until I get this fixed.
 
 Project Raindeer HotFix (12/3/25)
