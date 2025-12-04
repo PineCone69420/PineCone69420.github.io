@@ -1,0 +1,1129 @@
+Project Raindeer(12/1/25)
+
+Information:
+
+This map is using SDK Version 3.10.0! This means we have FULL World Dynamics!!! Physbones will be enabled again.
+
+THIS UPDATE IS SPLIT INTO 2 PARTS. SORRY, BUT THE STUPID 100MB LIMIT MADE ME DO THIS.
+
+This update is special, in that not only will it be ONE year since I pushed my first MMD Map onto labs, but it is also my birthday month!
+
+THIS IS TOTALLY OPTIONAL but if you wanna send me some treats that would be awesome :3 (ko-fi.com/pinecone69420)
+
+ANYWAYS, WE GOT SNOW, WE GOT FOOTSTEP SOUNDS, AND A PROPER CHRISTMAS STAGE w/ A PROPER CHRISTMAS TREE!!!*
+
+* proper enough to make me happy
+
+Motions:
+
+These songs are the ones I would listen to before I die.
+
+Part 1:
+
+Afterglow - JimmyThumb-P
+Bad Bad Water - Yu H, CuSummer ft. Luo Tianyi
+Cantarella - KurousaP
+Caramell Dansen - Caramella Girls
+Cry For Me - HalaCG
+Cute Medly - Mitchie M
+Cynical Night Plan - Ayase
+Ddu Du Ddu Du - BLACKPINK
+Devil - HalaCG
+Viva Happy - Mitchie M
+
+Part 2:
+
+Echo - Crusher
+GunShot - KARD
+Intergalactia - IA GLOWB
+Mago - GFRIEND
+More - K/DA
+Okinimesumama - Eve
+PokeDance - Yuki Honda
+The Zombie Song - Stephanie Mabey
+V - HIMEHINA
+
+Changes:
+
+* NEW CHRISTMAS STAGE!
+
+Due to how the asset works, I had to make the Interior Room the stage, and then the actual Christmas Area its own thing. Sorry, but this would have taken way too long for me to fix properly.
+
+* This months scavenger hunt item is me! Good luck. There are 3 SoapCat's on the map. 2 in the Interior Room, and one in the Christmas Area.
+   * Your prize is me throwing it back or something, idk.
+
+* Added snow particles
+* Added footstep sounds
+* Updated Portable Panel Layout again
+    * Player Scale & Player Finder UI's have been integrated into the World Settings Page.
+* Added a teleport button to the Christmas Area
+* Added a simple tutorial & button to access the VRC Group in-game
+* Updated some text blocks on the World Information Panel
+* NPCs are layed out similar to Legacy for the Aniversary Month
+* NPCs have shading & outlines on PC again
+
+*** This world is using version 3.9.1-beta2 of the SDK! ***
+
+Last Update: 11/16/25
+
+Project Umbra MicroUpdate (11/16/25)
+
+* Trumpet UI Fixed (its still broken, sorry.)
+* Senorita has had 2 dancers removed per user feedback. I do not want to hear that it is now broken.
+
+Project Umbra MicroUpdate (11/9/25)
+
+* Replaced How It's Done with Say So (YES, THE CREATOR GAVE PERMISSION FOR ITS USE ON VRC!!!)
+* Added a script that checks your Player Storage and alerts you if you've exceeded it.
+    * This will help me address some Quest users not getting their cookies!
+* Added a toggle for Admin Purposes :3
+* Replaced Female 1 and Male 1 with appropriate names :3
+* Fixed Adverts toggling World Portals
+* Added Potato Chips! Sorry, but getting cookies on here requires me to use Blender or find a Cookie Bowl asset. I'll work on this eventually.
+
+Still crashing out so... no more bug fixes. Sorry!
+
+Project Umbra MicroUpdate (11/3/25)
+
+* How It's Done has been removed due to the creators request
+
+Stage Selection UI:
+* Rearranged Stage Selection UI
+* Added a button and a toggle to Stage Selection: Player Pickup and Toggle Portable Panel Gesture
+
+Observers:
+* Player Pickup Observer: Allows multiple buttons to control the Player Pickup script
+* PortablePanel Observer: Checks the current status of the toggle and is Persistence Enabled, meaning it will remember the status of the toggle when you toggle it!
+
+* Added a button for ReSpawning Folaroid (Polaroid Camera). If abuse is seen, I will add a lock to it.
+* Removed secret sound that is meant for a secret feature that only a few people have access to.
+
+Project Umbra (11/1/25)
+
+THIS WORLD IS USING THE BETA VERSION OF THE SDK WHICH INCLUDES WORLD DYNAMICS: PhysBones, Contacts, and Constraints!
+BUGS MAY OCCUR. IF THEY ARE THAT BAD, I WILL REMOVE PHYSBONES.
+
+YOU NEED TO BE USING THE OPEN BETA TO SEE THE PHYSBONES. ASK GOOGLE HOW TO DO THIS.
+
+STRAP IN EVERYONE, THIS IS THE LARGEST UPDATE KNOWN TO MAN AND WOMAN. THE 1ST OF THE MONTH MEANS A NEW UPDATE AND MOTIONS!!
+
+From now on, the Dev Map will always have the unlock button for motions.
+
+New Motions:
+
+A Horny Money World - D.watt (IOSYS) *
+Bye Bye Bye - NSYNC (Short)
+Drama - Aespa (Short)
+DARE - Gorillaz (Short)
+discopled - Zachz Winner (Short)
+Ghost Rule - Deco*27 * (It is normal for the dancer to dissapear at times, that is how the original motion was created)
+Hide and Seek - Imogen Heap
+How It's Done - HUNTR/X (Removed per motion creators request.)
+Kirby Trumpet Meme (Gourmet Race - SSBU) - Jun Ishikawa
+Luka Luka - samfree (RIP) *
+Mad Hatter - Melanie Martinez
+Always Going To Let You Down - :3 (Short)
+Ride - Twenty One Pilots
+Wednesday Addams - Goo Goo Muck - The Cramps
+Senorita - Shawn Mendez
+Stressed Out - Twenty One Pilots (Short)
+Welcome to the Show - Daniel Ingram
+Mystery Song - Only PineCone and Luna can access this. It was added for beta testing.
+
+* - Cover Available
+
+New Features:
+* New Scavenger Hunt Items and prize! You now need to find them across ALL stages! :3 Some say the prize is defrosted...
+* Player Pickup! Disabled by default, a toggle is behind the PortablePanel!
+*   Yes, you can throw people at mach 5. You just have to account for the delay.
+* Reworked not being able to select and play songs sometimes.
+
+NPCs:
+* Sylvafen has Clothing! The original links have been taken down so if you want them, you'll need to join the Sylvafen Discord and ask there.
+    * Disabled KABOOM since no one found it funny :(
+* PhysBones! Now the NPCs won't be erect (ayo?) when they see you! (Open Beta FOR NOW!!! ASK GOOGLE ON HOW TO SWITCH VERSIONS)
+* Added a system to position and rotate HandHeld Song Props, the Trumpet is very broken. Sorry, that's a VRC Limitation.
+* Swapped SoapCat texture to default
+
+Modifications:
+* AudioZone's are now toggleable, they are disabled by default. Toggles are on the MMD Preview and the MMD Screen on the Stage.
+* Portals have been relocated to the Spectator Theatre because people kept flying into them with the pickupables!
+* Tutorial and New Feature Area has been removed. The tutorial will be replaced with a new system at some point.
+* Screen Overlay has been enabled for NON-VR users since the FSC is broken and idk why.
+* Rear MMD Screen and Toggle have been removed from the Concert Stage
+* QUEST HAS CHAIRS IN THE SPECTATOR THEATRE NOW! :3
+* Modifed MMD Preview & MMD Screen Controls
+
+Stage:
+* Added a new TV Stage
+* Added a new SkyBox
+
+Misc:
+* Updated some advert textures & disabled MipMapping on them so they don't look awful from a distance
+* Updated Asset List on the World Information Panel - if you want to know where I got a specific asset from, or what its name is, DM me on Discord: karamell69420
+    * Non Map-Related DMs will be ignored.
+* Added a banner someone made (thank you again!)
+* Spawn Point moved to the Spawn Area
+* Updated Occlusion Culling Data
+* Fixed respawning Pickupables
+* Added a 6th dancepad
+
+Project Indigo MicroUpdate (10/14/25)
+
+* Fixed Spectator Threatre UI Controls on PC (shame on you for not reporting this... 3:)
+* Updated Dancer Names for some songs: Alastor's Song, Thriller, Soda Pop, The Zombie Song
+* Updated Usernames and Supporter Codes
+
+Project Indigo MicroUpdate (10/12/25)
+
+* Updated Sylvafen Textures and removed clothes. People kept associating the NPC with me so...
+* Updated Usernames and Supporter Codes :3
+
+Project Indigo MicroUpdate (10/9/25)
+
+* New Supporter Codes
+* Properly implemented the MMD Controller code for reducing lag between players
+
+Project Indigo MicroUpdate (10/7/25)
+
+Dance Pads:
+* Added in Dancer Names
+* Some songs don't have the names because its obvious who you're dancing as, or I do not know the names of the dancers for that song.
+* If you know what names should go to what dancepad, let me know on Discord! You can find all my socials crossing the bridge or on the World Information Menu!
+
+Project Indigo HotFix 2 (10/3/25)
+
+Soda Pop:
+* Reduced Particle Count to not fry your Quest 2
+
+Misc:
+* Renamed Christmas Stage to Spooky Month on the PortablePanel
+* Added a text block for when a motion is playing, and you are inside the AudioZone in the Theatre.
+* Added admin controls for Admins who have power :3
+
+Project Indigo HotFix 1 (10/2/25)
+
+Due to popular demand, Slenderman has been replaced with Alastor's Game.
+
+This world was built using SDK Version 3.9.0-beta.1. Normally I don't use prototype software, but they re-worked the Network ID Utility to not be absolute garbage, which allows you to sync both PC & Quest worlds. Folaroid pictures are still not synced tho...
+
+MMD Camera:
+* The MMD Camera has been modified to only show the Stage and Player. You'll still see players standing on the rest of the map, sorry.
+
+Covers:
+* This is Halloween Cover has been replaced with the Rock Cover as it better matches the length of the original. It still around 10 seconds short, so I had to pad it with the intro of the original.
+* Happy Halloween has had its outro removed, since that was used on youtube to promote the artist. The song now matches perfectly to the original.
+
+Misc:
+
+* SodaPop now has pink particles
+* Songs are now in Alphabetical Order
+* Fixed player pad positions for all stages
+* Fixed toggle at Concert Stage, added a bridge portion to the walkway
+* Scavenger Hunt is now fixed.
+* Added text to denote AudioZone in the Spectator Theatre
+* Reduced Audio Gain for AudioZones
+* Added colliders to the theatre roof
+* Removed some scripts that are no longer needed
+
+Project Indigo (10/1/25):
+
+A big revamp is coming in a few months. More details will be revealed as I get the machine going.
+
+ONE MONTH ALREADY? AND ITS SPOOKY SEASON? FUCK YEA!
+
+New Motions:
+
+* The Zombie Song - Stephane Mabey (yes its a repeat, shut.)
+* Happy Halloween - Junky *
+* Loser Baby - Hazbin Hotel (Supporter Only)
+* Shangri La - Corpse Party
+* Slenderman - ???
+* Soda Pop - Saja Boys
+* Spooky Swings (Spooky Month) - MasterSwordRemix
+* Spooky Scary Skeletons - The Living Tombstone
+* Stuck Inside - The Living Tombstone
+* This is Halloween - Nightmare Before Christmas *
+* Thriller - Michael Jackson
+* Wildfire - GUMI
+
+* - Alternate Cover Available
+
+** This update and all future updates will include the code optimizations for the MMD Controller! This is meant to reduce delays when playing with multiple people! **
+
+World Information Panel:
+* This will replace the PortablePanel at some point, I need to create my own modules and make it look pretty.
+* The old billboards displaying world information have now been replaced with the new World Information Panel by yukineko
+* It is a heavy WIP! I don't like the font that comes with it so I am trying to replace all fonts with Impress BT.
+* Some tabs will be blank / full of nonsense. I am working on re-writing these for clarity!
+
+Stage:
+* Removed Christmas Stage. Replaced with a new Halloween Stage!
+* Added Volumetric Fog, can be toggled with the smoke machine in the theatre!
+* Added some string "lights" around the map
+
+Scavenger Hunt:
+* Condoms have been replaced with skeletons! There are 5 skeletons to find, good luck!
+* Finding all skeletons will reveal a new prize!
+
+NPC:
+* Added the Sylvafen by Joltsie! Yes I got their explicit permission to include the avi on my map.
+* Added a Facial Expression Observer. This observer resets the facial expressions of NPCs before a motion starts, I don't know what's causing this, but the expressions get stuck between motions.
+
+Misc:
+* Added Rick May's statue. May he Rest in Peace. (1940-2020) "You were good son real good, maybe even the best."
+* Added a taunt to Rick May's Statue (A system that lets you taunt anywhere will be developed in the future)
+* Spaced out the Player Dance Pads so that you don't take up two pads because Box Colliders
+* Added a toggle to alternate between Original and Cover songs
+* Added a border to the MMD Screen to reduce distractions
+* Added some more pickupables
+* Some textures on PC have been bumped to 2k. Quest users are still on 1024x1024 or 512x512.
+* Some songs have been converted to Mono or 44.1KHz on Quest. PC has full quality audio.
+* Fixed broken beanbag colliders and seats (still won't sit you properly but hey, at least now you sit *on* the beanbag) (PC ONLY)
+
+Project Lumanince HotFix 4 (9/13/25):
+
+NOTE: I updated the controller code to allow me to stop it even if I am not the owner of the controller/instance. This may be a bad idea, and will not know until I push this update.
+
+If the map stops working, PLEASE let me know via TikTok DMs or Discord!
+
+AudioZones:
+* Updated AudioZones - They now are enabled only when a dance is playing
+* Removed Michael Phone since you can just stand in the MMD AudioZones
+
+Misc:
+* Removed some unnecessary code I found while fixing a bug
+* Hopefully fixed Sync between PC & Quest
+
+REMINDER: Lunathebean19 has been a mod for a while! They have full power to kick and ban people at our meetups for misbehaving!
+
+Project Lumanince HotFix 3 (9/11/25)
+
+AudioZones:
+* Reduced gain on AudioZones
+* Changed AudioZone channel to 69 :3
+* The Michael Phone now only works with those inside the MMD Area, Stage, or Spectator Theatre AudioZones
+
+Misc:
+* Potentially fixed Player Icons on PC - Please report in TikTok DMs or the Discord Server if your icon is missing!
+* Re-Worked Scavenger Hunt Trophy Physics (It no longer obeys the laws of thermodynamics)
+
+The smallest Update known to man, woman, and child (9/4/25):
+
+* Fixed Persistence not applying when you join the map after clicking the Skip Button @ the new Update Area
+
+We have an icon now! Thanks Luna!
+Artist: https://www.instagram.com/mintyparloursuits
+
+Project Lumanince HotFix 2 (9/2/25)
+* Fixed Respawn Issue
+
+Project Lumanince HotFix 1 (9/2/25)
+
+New Feature Update Introduction:
+* Removed the ability to grab you by the neck & force you to listen
+* It kept teleporting people for some reason...
+
+AudioZones:
+* Fixed default audio being fucked up
+* AudioZones have been increased to 500m
+* This may or may not work.
+
+Misc:
+* VRC has been fucky lately, it may be causing unexpected behaviour.
+* PortablePanel now shows the Supporter Code
+* Some condoms are now easier to get, especially on Desktop
+* Player Icons SHOULD BE FIXED FOR EVERYONE I PINKY PROMISE.
+* PortablePanel text no longer shows on MMD Camera
+* Potentially fixed scavenger hunt prize
+* Fixed a hidden feature. This feature is meant for me and two other people, hi! As always, please provide feedback in the new secret channel.
+
+Project Lumanince (9/1/25)
+
+HOLY SHIT! IT'S THAT TIME AGAIN! NEW UPDATE MEANS NEW MOTIONS!
+
+Motions:
+
+Devil - HalaCG
+HUNTR/X - Golden
+Intergalactia - IAGLOWB
+Jump - BLACKPINK
+Lady Crazy - HIMEHINA
+My Demons - STARSET
+Sugar - Maroon 5
+The Ghost - Natsushiro Takaki
+Your Idol - Saja Boys
+Sakura - Anatani Deaete Yokatta - RSP
+Cynical Night Plan - Ayase
+
+MAJOR UPGRADES:
+
+Portable Panel:
+* Added a page system for multiple controls.
+* Page 0: Map Controls
+* Page 1: Avatar Scale & Player Locator
+* Page 2: Scavenger Hunt UI
+
+Map Controls:
+* These are the same controls for various map functions.
+
+Avatar Scale:
+* The max unit count Udon allows an avatar to be scaled by is 100m. The minimum is 0.10m.
+* If you are unable to reset your scale, use your Expression Menu.
+* Due to Udon not scaling your colliders, you will experience odd behaviour when using abnormal scales.
+
+AudioZones:
+* Allows you to talk to those in the stage area and vice versa.
+* You must be inside an Audio Zone to be able to talk to those on the stage. Current Audio Zones are MMD Song Selection (denoted by green carpet), and the spectator theatre
+* You can also use the Michael Phone (microphone) to talk to EVERYONE regardless of position. Abuse will lead to this being locked to supporters only.
+
+Multi Jump:
+* You can now multi-jump and a sound plays when you do so.
+* You can adjust the volume using the Portable Panel
+
+Player Icons
+* Supporters now have player icons, along with some special people.
+* If you want a custom player icon, you must be a supporter. Already a supporter? Join the Discord Server to get your custom icon above your head!
+
+Player Locator:
+* Allows you to find players. Current areas are: Spawn, MMD Song Selection, Bridge, Spectator Theatre, and the Stage
+* Found on page 1 in the Portable Panel
+
+Scavenger Hunt:
+* Some of you might have noticed some condoms around the map. Now they actually have a use! Practice safe interactions & find them all to win a prize!
+* UI found on Page 2
+* If you know about Big Rigs Off the Road Racing, you will enjoy the prize.
+
+Pickupables:
+* Added some pickups for you to toss and hurt your friends with phantom sense! (DO NOT. You can toggle the objects to prevent people from throwing them towards you)
+* Current pickupables are at the supporter table: TV, Supporter Perks, Table, & Frisbees.
+* Yes, my two friends already beat you to how far you can throw them. They went to the world border.
+* Will be adding more objects in the future.
+
+EVERYTHING ELSE:
+
+Update Feature Area:
+* Added a new mandatory feature area where I grab you, make you sit still, and listen to the new features that are released with this update.
+* Due to VRC TOS, I MUST add an out, which you can find as the Skip button.
+* This was added because YOU DO NOT READ. So now there is no excuse.
+
+Advertisements:
+* I have decided to finally add advertisements to products I 100% endorse. This will include Avatars & Worlds for now.
+* I am NOT GETTING ANYTHING IN RETURN FOR THESE ADVERTS. Except for MMD AfterDark, the creator reached out about adverts on our maps and I agreed.
+* PLEASE READ THROUGH THE PRODUCT PAGES BEFORE PURCHASING. I AM NOT RESPONSIBLE FOR ANY ISSUES THAT ARISE DUE TO YOUR LACK OF USING YOUR EYES.
+* If you'd like a slot, DM me on Discord. It won't be free, sorry.
+
+Observers:
+* Controller Observer has been removed due to broken code & being redundant due to the overlay toggle being on the MMD screen now
+* Caption Observer removed as it very clunky and youtube has stopped giving us the ability to download captions. Fucking bastards.
+
+Misc:
+* Updated some text billboards.
+* Both MMD Screens are disabled by default. If you are not in the stage/spectator area, they will continue to be disabled.
+Example: If you are not in the spectator theatre, its screen is disabled. If you're not on the stage, that screen is disabled. You are welcome.
+* Far Camera Clip Plane has been reverted to 1000
+* Felon's wall has been torn down by the Mexican Government. Guess they didn't want to fund the wall after all.
+* A bridge has been added to connect the MMD Area to the Stage
+* Fixed easter egg (please lower your volume, I am actually not responsible for you going deaf or your speakers blowing out...)
+
+Project Zypher MicroUpdate (8/3/25)
+
+Misc:
+* Added a toggle behind the PortablePanel to allow players to use the left trigger to toggle the overlay.
+    * If this toggle is enabled, your left trigger will toggle the MMD Screen Overlay.
+    * If this toggle is disabled, your left trigger won't toggle the MMD Screen Overlay.
+* Added a PortablePanel button on Stage Selection
+
+Project Zephyr (8/1/25)
+
+NEW UPDATE MEANS NEW MOTIONS!
+
+Blue Star -  八王子P
+Cry for Me - HalaCG
+Dive to Blue - iMarine
+Grrls - AViVa
+Heathens - Twenty One Pilots
+Korean or Get Eaten - Squid Game (Supporter)
+Eva (Lonely Lonely) - Винтаж (Supporter)
+Near - Natsushiro Takaki
+Paya Paya - Shouya Namai
+Say My Name - Beetlejuice
+V - HIMEHINA
+
+If you'd like to support me & what I do, check out my Ko-Fi! Links are near the KeyPad & the Supporter Table at Spawn!
+The current goal is to get FBT!
+
+* Caption System (BETA, MAY BE REMOVED AT ANY TIME)
+* The new Caption System is designed for those that simply want letters on the screen / panel.
+* The caption system requires SRT files that may not exist, thus captions may not be available for all songs.
+* I will try to do English Captions, but will do the primary language if it's the only one available.
+* For VR Users: Please use the PortablePanel to use the caption system.
+* Desktop Users: The Caption System is integrated into the FSC. A toggle has been added if you'd like to enable them.
+
+MMD Screen:
+* Lowered it to prevent Neck Strain. Use the Overlay (VR) to fully view the screen.
+* Toggles have been condensed to a Settings Toggle, and now allows you to toggle all settings.
+* A consequence of my action is that the overlay will OVERLAY ontop of the buttons. If you can't turn it off, a toggle has been added above the screen.
+* New Portable Panel Toggle added.
+
+PortablePanel:
+* Modified the panel slightly, it now has a button to close the panel on the front.
+* Added a space on the bottom for the new Caption System
+
+Supporters:
+* Supporter Observer no longer checks for a sub, the implementation never worked reliably and I ask that you enter the code manually. Sorry.
+* The PortablePanel will still show you the code on the back.
+* Codes will be generated weekly to avoid code sharing.
+* Code has been extended to 6 characters vs 5
+
+Panels:
+* Some controls & texts are now in the same position across PC & Quest. This allows you to point to a button and actually be pointing to it instead of being a few degrees off.
+
+Project Halcyon HotFix 1 (7/6/25)
+
+Supporters:
+* FIXED SUPPORTER LIST SCROLLING! I PROMISE!
+* The Ko-Fi link is now a VRC URL text box, allowing you to copy it!
+
+Misc:
+* Reduced the amount of Non-Synced objects between PC & Quest
+* Updated Context-Inator to include missing quotes
+* Added a sign to the MMD Selection Area because people don't read.
+* Potentially fixed a bug with the Premium songs disabling themselves after a player leaves
+* Folaroid now has an easter egg.
+
+Project Halcyon: (7/1/25)
+
+NEW UPDATE MEANS NEW MOTIONS & FEATURES!!
+
+New Motions:
+
+Get Down - Kohmi Hirose
+Halzion - YOASOBI
+Heart Beats - Megurine Luka
+Monster - Yusuke Kira (GUMI)
+One Last Kiss - Hikaru Utada
+PopStars - KD/A
+Shake It Off - Taylor Swift
+Sleepless Flight - 接个吻，开一枪 & 沈以诚 & 薛明媛
+The Zombie Song - Stephanie Mabey
+Trouble Maker - Trouble Maker (Supporter Only)
+You Can't Hide From Us - Spag Heddy & Anna Yvette (Sex Whales Remix)
+
+UI:
+* Song Selection buttons have been re-designed. They now show the song name, artist name, and song length.
+
+NPCs:
+* Removed FNAF NPCs
+* Soap NPCs have been replaced with Soap: Cat (Chimera), Bear, Lion, and Bunny
+* Bunny has been updated to have the mouth smoothed & the extra toggles no longer have weird gaps.
+* NPCs are no longer chubb to acomodate the sterotype of "thin" models in MMD Motions.
+
+Thank you Red from the Soap Server! You are very talented!
+
+Misc:
+* Removed 5th dancepad as no motion uses 5 dancers
+* Added the Context-Inator. This allows you to get context of the Quotes at spawn
+* Added an audio clip when someone tries to play a premium motion without a subscription
+* Added a few easter eggs, I AM NOT RESPONSIBLE FOR BROKEN EARS. YOU HAVE BEEN WARNED!
+* Screen Render Information has been replaced with a new Controls Panel
+
+Project Solace HotFix 4 (6/17/25)
+
+Motion:
+* Lowered the camera height for Gay Frogs
+
+Performance:
+* Disabled Static Batching as my map doesn't support it
+* Re-Baked Occlusion Culling
+
+MMD Screen:
+* Lowered the MMD Screen as to not break any more necks. Use the Overlay or FSC if the screen is obstructed.
+
+Supporters:
+* Updated the Supporters Logic in order to allow an easier way to update the list outside of this large project.
+    *I still need Unity to update this since it relies on Udon & I am too lazy to figure out a solution that works      outside of unity. At least I can use a smaller project.
+
+Thank you SO SO MUCH to my supporters! we are now racking in $17* a month!
+* A bit less because Ko-Fi & Stripe fees.
+
+Project Solace HotFix 3 (6/15/25)
+
+* Fixed Discord QR Codes
+* Updated Supporters List  & fixed the scrolling issue (thank you!)
+
+Project Solace HotFix 2 (6/10/25)
+
+I WAS AT FURALITY! THAT'S WHY I HAVE BEEN SILENT. Post Con Depression is real and I hate it so much.
+
+Performance:
+
+* Improved Occlusion Culling
+* Lowered Camera Clip Planes
+* Batched Materials
+* Replaced some shaders with Toon Standard
+* Moved Stage to better improve Culling Performance.
+
+Misc:
+* Removed Mountain Hike as it was too large geometry wise lmao
+* Replaced Desktop Image on Gay Frogs to a special image.
+* Improved Supporter System to work without Unity (still requires Udon, but now I can use a smaller project)
+* Fixed the PortablePanel. I PROMISE!
+
+You may not see any new updates for a bit as I want to research information about World Design using the Panels from Furality & make a world that isn't this lmao
+
+I also want to make SoapCat Flannel.
+
+Project Solace HotFix 1 (6/3/25)
+
+Additions:
+* New Motion: Gay Frogs - Alex Jones
+* New Stage: Rainbow Road - this stage is a modification of Star Dream Stage by Phantom Love.
+* Rainbow because Pride! If this offends you, that 'Exit VRChat' button looks enticing.
+* Members now have access to the VIP code on the rear of the PortablePanel
+
+Fixes:
+* Fixed PortablePanel Buttons not working (Quest)
+* Updated some text blerbs
+
+Project Solace Update (6/1/25)
+
+Project Solace is dedicated to my aunts dog, Pelos, who passed away on 6/1/25.
+
+PLEASE READ THE SECTION LABELED SUBSCRIPTIONS.
+
+New Motions:
+
+check - bbno$ (Premium Song)
+Bumble Bee - Bambee
+Carry Me Off - Hachioji P (八王子P)
+Confessions of a Rotten Girl - SAWTOWNE
+Donut Hole - Hachi
+Gunshot - Kard
+Love at 105c (热爱 105°C 的你) - A Si (阿肆)
+Miku - Anamanaguchi
+Monster (DotEXE Remix) - DotEXE - Meg & Dia
+p.h. - SEVENTHLINKS
+Zaako (雑魚 / 亞北ネル) - hiiragi_magne
+
+* Premium songs are songs that are $$ or require a bit of work to get into Unity.
+
+NEW STAGES! Thank you to my Community Members for guiding the direction of these stages!
+* These stages were created using assets from the Unity Asset Store:
+* Mountain Hike - NatureSimplePack
+* Snowy Christmas - Atmospheric Locations
+* City - Simple Poly City
+
+Controls:
+* Removed RIGHT TRIGGER control as people kept triggering it by accident & I don't know how to make it work when you're ONLY in a station.
+
+PortablePanel:
+* NEW CONTROLS: You can now adjust the audio for the player join / exit & player pad.
+* The PortablePanel is no longer PC only. It has been enabled for Desktop. (Android users are out of luck because I can't figure out how to make it work on there lol)
+* Desktop Users can press TAB to spawn in a panel.
+
+NPCs:
+* New Retro FNAF NPCs by Vibapop! You can toggle between SoapAvatars & FNAF NPCs!
+* FNAF NPCs do not have MMD Blendshapes, so they won't have facial expressions. Sorry.
+
+Misc:
+* MMD Screen has been modified slightly. I am trying to make the screen as clear as possible.
+* When a player joins/exits the map, a sound is played. This is mainly for me since I seem to not pay attention to the message that pops up when a player joins.
+* FNAF NPC Toggle now plays a sound.
+
+Subscriptions:
+* Starting June 1st, I will begin to implement a Subscription based model instead of a One Time Donation model.
+* Those that have donated before June 1st get an extra 2 months of Member Access
+* The minimum amount is $2 & you can Pay What You Want! You'll still get the same benefits no matter what amount you donate! It will not spread over time however, if you donate $50, that counts as one month!
+* You can find more information @ the Supporter table near spawn, or on the Discord Server channel #donation-information
+
+* For the record, I do not care if you share the code with your Significant Other / Person you would take a bullet for / other words to describe someone who is very close to you. Just please don't share it with anyone outside of that. $2 is not much!
+
+Member - Player with a membership
+Player - Player WITHOUT a membership.
+
+Observers:
+* A Membership Observer has been added. This observer will check if you or someone in your instance is a member.
+* If someone is found to have a membership, Premuim Songs will unlock for current & future players, assuming that the Member is still in the instance when the future players join.
+* While I cannot reveal the process of how I'm doing this because Security through Obscurity, all you need to know is that Encrypted Data is loaded in from a remote server & then processed on your device.
+* If the observer sees the following, it will not load the Premium songs as a defence mechanism:
+* Cannot verify the encrypted data
+* Cannot download the encrypted data
+* Does not find an active membership on the Current Player or Other Players in your instance
+* You can still enter the code & get access to Premuim Songs.
+
+If you try to mess with the data, from the bottom of my mexican sausage, fuck you. Again $2 isn't much!
+
+KeyPad:
+* You can find the codes on the #vip-codes channel on the discord! You need to be a member to access the codes!
+* The map will remember when you enter a code so you don't have to enter it each time. If you lose membership access however, the keypad will see that you're not a member & lock you out.
+
+LARGE ITALIAN SAUSAGE IN MY MOUTH!
+Now that I have your attention:
+
+VRChat is doing fucky shit with Udon! This is causing unexpected behaviour! I CANNOT FIX WHAT I CANNOT SEE IN THE UNITY EDITOR!!
+
+Project Aether Hotfix 2 (5/11/25)
+
+Thank you Red from the Soap Discord for letting me use your Bunny on my map!
+
+NPCs:
+* New NPC! The Bunny (SoapDog Base) by Red on the Soap Discord! (You can get it, but you must own the SoapDog base.)
+* Due to rising costs & tarrifs, Kandi has been released into the wild. (This NPC was the one that caused a lot of headache when creating a Quest version due to the use of Poiyomi's various features, so it was removed.)
+* Android NPCs have been re-worked to be less CRUNCHY. Fucking Tuxedo set the tris to 9k when I told it 20k.
+* Android NPCs are now using 1 material!
+
+Misc:
+* MMD Screen Toggle on the Concert Stage has been fixed (finally)
+* Mirrors have been fixed. They should render at the correct resolution now. No you cannot move them still.
+* Performance Improvements - NPCs & removing old lines of code.
+* Removed Herobrine.
+
+Sorry but I couldn't find a way to fix the camera issues so they will stay broken :thumbs_up:
+
+THANK YOU SO MUCH FOR 1K FAVORITES & OVER 20K VISITS!! <3
+
+Project Aether HotFix 1 (5/4/25)
+
+* New Discord Server!
+    * Due to circumstances outside of my control (AI overlords), my main Discord account was banned & is not        comming back. Since I was stupid dumb & didn't mod anyone on the server, there is no way to manage          server functions. This is bad for the future of my community so I caved & made a new discord server. Links      & QR Codes have already been updated!
+    * If you're already on the old server, I ask that you leave that one & instead join the new one. I already          implemented some contingency plans & added one new bot to the server <3
+* Fixed Ko-Fi QR Code (i deadass forgor to update it lmao)
+* Updated Network IDs
+* Fixed Cylinder showing up @ MMD Area
+
+Project Aether Update: (5/1/25)
+
+Forgot to disable the Dev Text block. oopsie.
+Fixed the video player.
+
+This is THE BIGGEST update I have pushed out! Get ready for some really sick features & motions!
+
+Note: Unless there are critical bugs to fix, I am not touching this map for a week. I need a break.
+
+Group: PINECO.9733 
+VRC Username: PineCone69420
+
+New Motions:
+
+* Afterglow
+* As You Like It (5 person dance)
+* Bad Bad Water
+* Ddu Du Ddu Du
+* In This Unstable World
+* It's Been So Long
+* Liar Dancer
+* Love Me LIke You Do
+* Mago
+* See Tinh
+* Toca Toca
+
+* Motions from the previous update have been moved to Redux: PC. I am considering creating a separate Archive world for PC/Questies.
+
+NEW CONTROLS!
+* Holding the Left Trigger for 1 second will toggle the Screen Overlay
+* Holding the Right Trigger for 4 seconds will STOP any current motion. PLEASE BE CAREFUL WHEN HOLDING THE RIGHT TRIGGER.
+
+Tutorial:
+* A tutorial section has been added for those that have not played an MMD Map, or want answers to some frequently asked questions
+
+* The tutorial covers of the basics of MMD & VRChat in addition to some *very* importiant things you need to know when playing on my MMD maps.
+
+* The Video Player was written by aparche, the same creator who wrote the MMD Controller. So much better than ProTV!
+
+* The tutorial will send you to the old spawn area if you have completed the tutorial / tell it you have played an MMD map before
+
+QoL:
+* Dance Pads between Quest & PC are now in the same location, in reference to the world. This means that when you stand on a dancepad, the MMD Controller won't think you're stepping on 2 dance pads.
+* Replaced FullScreenShader (FSS) with FullScreenCanvas (FSC), this allows the player mesh to no longer intersect with the player camera & ruin your photo/video shots.
+    * FSC is only available on Desktop Mode / Android Mode. VR is NOT SUPPORTED. VR Users can use the Screen Overlay!
+* Added a toggle to disable FSC on Android (idk why the overlay overrides the vrc controls)
+    * Just tap the screen to disable the FSC. Toggles to enable FSC are on the MMD Screens
+* Added an MMD Mirror to replace the MMD Screen.
+    * The Mirror is set to max quality. 1024x resolution & 4x AA. If it still looks bad, I don't know what to tell you.
+* Screen Overlay Toggles are now synced with each other & play sounds when toggled.
+* Spectator Theatre Screen has new controls & buttons. (they are local except for STOP)
+* Song Selection Teleport has been added to the Portable Panel & a Mirror Toggle
+* Modified some quads to better emphasize important texts blocks, such as the Color Codes & Motion Credits
+* Updated F.A.Q & Bug text blocks
+
+Observers:
+* Several map functions are now being replaced with Observers. Observers "observe" the map for key events & execute special functions. No, this does not mean they spy on you. There's no way to upload data to the internet via Udon.
+
+The following are currently present:
+    * Tutorial - Handles functions related to the Tutorial Area, such as remembering if you finished the tutorial.
+    * Player Count Observer - Monitors player count & warns current players & future players of that instance that sync issues will occur due to multiple players!
+    * Camera Observer - Monitors MMD Playback & forces the MMD Camera to turn on when a motion is playing. This will *hopefully* fix the black screen issue when playing with multiple people.
+    * Controller Observer - Monitors controller inputs. The current inputs are the Left & Right trigger, which toggle STOP MMD & Screen Overlay respectively after 4 seconds / 1 second of holding the triggers.
+    * Track Progress Observer - Updates the Track Position placed on the MMD Screens & Portable Panel
+    * Mirror Observer - Toggles between the MMD Screen & MMD Mirror
+
+NPCs:
+* The PC SoapDragons have had various shader options disabled to improve performance
+* I want to replace Quest NPCs with those that aren't visually broken. If you know someone that would be okay with having their NPCs on my map, feel free to send them my way!
+
+Song Preview:
+* Song Preview now respects the current volume as the maximum volume. Ex: If you set the volume to 10%, the maximum volume during previews will be 10%.
+* Fixed Song Preview for audio tracks less than 37 seconds.
+* Preview time increased to 12 seconds
+
+Not a Bug, but a Feature:
+* When the FullScreenCanvas is enabled & you open your Quick Menu, the FullScreenCanvas will be disabled. This is intentional by VRChat, since the Full Screen Canvas can be used by bad actors & cause pain to the user.
+
+Project Revolution Hot Patch part 69 (4/3/25):
+
+Motion:
+* Closer's Audio has been matched to the motion length
+
+Project Revolution Hot Patch (4/2/25):
+
+Bug Fixes:
+* Portable Panel no longer shows on the MMD Camera
+* Portable Panel Overlay Box Collider has been removed
+* When in a station, the STOP button now works as it should
+* Player Pads 4 & 5 now show the Player's name.
+* Fixed Camera Height Controller
+
+Misc:
+* Updated Blendshape Billboard & Credits
+* Replaced some Mesh Colliders with Box Colliders
+
+Project Revolution Hot Patch (4/1/25):
+
+Misc:
+* Added an F.A.Q section about the Overlay. Please read it if you're confused about it or are experiencing issues.
+* Updated F.A.Q - Removed section about not facing forward when entering a station
+* Removed Stop Buttons due to Player Feedback. They have been relocated to the floor while in a station.
+
+Bug Fixes:
+* The Volume Slider is now sycned between other volume sliders.
+* The Overlay Toggle is now working properly.
+
+Portable Panel:
+* Added a few buttons to the most common toggles to the back of the Portable Panel
+
+Motion:
+* Non Breath Oblige has had a few seconds stripped out from the start
+
+Project Revolution Update (4/1/25):
+
+PLEASE READ THE ENTIRE CHANGELOG. IT CONTAINS THINGS YOU MAY WANT TO KNOW ABOUT.
+
+New Update Cycle: Every month will bring in new songs. Songs of the previous month will be available for PC users only.
+This will happen until I run out of songs to add.
+
+New Motions:
+
+Abracadabra
+Baby Hotline
+Bad Romance
+Beat It (Dubstep)
+Catch The Wave
+ChaChaSlide
+Closer
+Great Joy (sfw)
+Heart Burn
+Mind Brand
+Non-Breath Oblige
+PokeDance
+The Baddest
+
+Motion Edits:
+* All motions now rely on their baked in positioning data. The Dancepad implementation is no longer needed except for some special cases.
+* 3 Dancer Echo has had its English Blendshapes removed as the majority of models include Japanese Blenshapes & can cause issues with both English & Japanese Blenshapes.
+
+NOTE: Floating is a side effect of how the MMD Motions are created. If the difference is large enough, I will manually move the dancepad down. Most motions do not have this issue.
+
+Performance:
+* Camera Component is now disabled instead of the GameObject.
+* Music has been compressed even further. You should NOT notice a difference.
+
+QoL:
+* Due to a recent discovery, dancepads will now face you towards the MMD screen no matter what. VR users rejoice!
+    * This also means that dances will be arranged perfectly. This will increase the chances of the player/NPCs clipping into each other.
+* Added a toggle for the new Screen Overlay (read more below.)
+* Added a Track Position readout to the MMD Screen & Portable Panel when playing a song.
+* Added a local volume slider for the MMD Player
+* VRC Camera Sphere removed as the FullScreenShader does the exact same thing.
+* Supporters table was given a Smol Avatar-Inator
+* STOP Spectator Theatre Button now works
+* Player Pads moved back a bit
+* Living Room roof has been moved up a bit.
+* Removed Herobrine
+
+Screen Overlay
+
+What is it?
+* The New Screen Overlay is an advancement in rendering technology^ whipped up by PineCone Enterprises that now overlays the MMD Screen IN FRONT of everything! This includes pesky NPCs & Players!
+* This takes advantage of Render Queues inside of Unity & a special shader^^
+* A toggle has been included to revert back to the old screen, as this can cause discomfort to some users.
+* The MMD Screen, Portable Panel, & Spectator Theatre have been integreted with the Screen Overlay.
+
+^ - stolen with love & care (Thanks Nero!)
+^^ - special because I couldn't get it to work LMAO
+
+Bugs
+* Due to how the Smol Avatar-Inator is setup, all objects at the table spawn will move up or down. I plan to fix this at a later date
+* The Portable Panel Overlay will overlap the controls. This will be fixed at a later date.
+* Avatars still clip into each other. This is due to MMD Motions using smaller & thinner models.
+
+Bug Fixes (3/18/25): 
+* Fixed MMD Controller breaking after a song.
+* PortablePanel was tuned further & fixed a bug when using a Plane instead of a Quad.
+
+Very Minor Update:
+
+* Fixed Avatar-inator. It now teleports while keeping your rotation position instead of repositioning it & jarring the user.
+
+Minor Content Update (3/14/25):
+
+**Fixed MMD Controller breaking after pressing PLAY.**
+Due to popular demand, Demons has been replaced with the Nightcore version.
+
+Important Changes:
+* PortablePanel got a facelift & should work 'better'.
+* Added a Smol Avatar-inator for the Vending Machine
+
+Songs:
+* Removed Anything You Can Do.
+* Removed What is Love
+* Added Dynamite - BTS
+* Added Alternative Version of Viva Happy
+
+Misc
+* Updated F.A.Q with a better explanation of why your view is not facing the MMD screen while in a station. (aka dancing)
+* Fixed Cookie not making eating sounds.
+
+PineCone IS NOT RESPONSIBLE FOR ANY UNFORSEEN CONSEQUENCES THAT RESULT FROM STREAMING DYNAMITE TO THE INTERNET. I MEAN IT, BTS WILL EAT YOUR TOES.
+
+Very Minor Update (3/7/25):
+
+* Fixed Folaroid not making a sound when taking a picture
+* Fixed missing textures on chairs for Demons
+* Fixed Beanbag Colliders
+* Fixed Portable Panel
+* Spectator Toggle now toggles text behind the Spectator Screen
+
+Minor Update (3/5/25):
+
+* Removed CRT Camera as its not needed. CRT Projector works as intended.
+* Visit Count is now local only. This fixes the issue where visit counts were overlapping & visit messages now work.
+
+Last update for a while. My brain is fried & I need a break. Feel free to offer suggestions or bug reports on the Discord & TikTok!
+
+Minor Update (3/4/25)
+
+* Fixed (kinda) the camera for Demons.
+* Fixed the chairs for Demons, they finally move as they should.
+* Added code to disable the DancePads Animator until a motion is playing. 
+    * This wasn't an issue before since song props didn't need to move, however with the addition of Demons,        extra code was needed to handle the animator state.
+
+Feature Update (3/3/25):
+
+* Added the Portable Panel again. It aims to solve the problem where your avatar obscures the view of the MMD Screen in VR.
+* To use the PortablePanel, place your hands close together and press your "Grip" buttons. Then move your hands away to scale the panel. When you're too far away, it dissapears.
+
+* Added the ability to show the MMD Screen in a VRC Photo/Stream Camera while in a station.
+    * Just place the Camera in front of you, within arms reach, below your neck.
+    * If the player camera enters the sphere, it will display the FullScreenShader unless you're in VR.
+    * A toggle is available incase it causes problems.
+
+* Optimized Occlusion Culling Data
+
+Bug Fixes:
+* Fixed Mirror Toggle Colliders
+* Fixed VRC Camera In-Station Toggle
+* Fixed PLAY button not disabling
+* Fixed an issue where an unintended behavior resulted due to a missing dancepad animator (the previous dancepad arrangement was not reset when selecting certian songs)
+
+Minor Hotfix 2 (3/2/25):
+NPCs:
+* Disabled SoapCat NPC on spawn. The DisableOnBuild tag got removed again.
+* Removed BONES that were not needed on the NPCs.
+* Customized NPCs to differentiate them from their premade counterparts.
+
+MMD Controller:
+* Music Preview now works with songs under 39 seconds.
+* The NPC Height calculator was re-written, and still didn't work for my SoapAvatar NPCs. I reverted back to using a fixed scale.
+
+Motions:
+* Anything I Can Do had its camera slightly lowered again, and the NPC scale better matches the player avatar height.
+
+Minor Hotfix(3/2/25): Camera & DancePad Fixes
+* The following motions have been tweaked a bit to better fit the camera & hopefully correct position issues. Some motions are still iffy, there's not much I can do due to the different scales used by Unity & MMD.
+
+Motions Modified:
+* Anything You Can Do - Fixed positions.
+* Boom Clap - Grips the pole better, but not fully.
+* Dancin - No longer screams AAA during a portion of the song
+* Demons - Fixed positions & height. Sorry, the chairs are still broken. I'm going to try to get this working.
+* Love Me - Fixed Positions & Rotation.
+* Viva Happy - Fixed positions & slightly lowered the camera.
+
+There also may be a bug with Player Avatars not being scaled correctly.
+
+Minor Hotfix (2/28/25)
+* GameObjects should now be in sync between PC & Quest.
+* Supporters list has been added, it has replaced the CRT MMD Screen.
+* Added some text about a fix for Multi-Player instances. It may or may not work.
+* Fixed small gap in Spectator Theatre Roof
+* Moved Ko-Fi banner to Table
+* Improved Occlusion Culling Data
+
+RHYTHM FUSION UPDATE! (2/27/25):
+
+NEW SONGS!
+* Anything You Can Do - Bernadette Peters & Tom Wopat
+* Boom Clap - Charli XCX
+* Brain Revolution Girl - MARETU
+* Dancin - Aaron Smith Krono Remix
+* Demons - Imagine Dragons
+* Die Young - Ke$ha
+* Gentleman - Psy
+* Love Me - Kikuo
+* Villan - K/DA
+* Viva Happy - Mitchie M
+* What Is Love - TWICE
+
+* Some songs were removed, I thought I had a list but I must have lost it.
+* Songs are in alphabetical order. Cross Compatible songs are shown first, then PC only songs.
+* Some songs may have weird quirks such as camera issues & body parts contorting in ways that would cause immense pain irl. This is due to how the conversion between MMD & Unity is done. The scales are not 1:1 & fixing them would be tedious & time consuming.
+* Updated Color Code guide for clairty & understanding.
+
+Performance
+    * Enabled Occlusion Culling
+    * This ensures VRChat only renders what you see, increasing performance & decreasing performance-related        issues
+    * Removed the NPCs acting as buttons. They were around 20-30k triangles per NPC so that was             uncessessary from the start.
+    * I experienced some anomalies during offline testing. Please report any issues you experience with this            update on TikTok DMs or the Discord server.
+
+Quality of Life improvements:
+* Added Teleport Button to replace NPCs acting as buttons.
+* Added STOP button to the coffee table in the Living Room
+* Polaroid is smaller to compensate for those that do not have large hands
+* Gestures should now work after exiting a station. The Gesture layer was never reset...
+
+Other Changes:
+* Added Song Props
+    * Current props are Chairs & a Pole.
+* AudioLink lights are fully working (idk why they broke tbh...)
+* Cleaned up some things
+    * STOP sign & other objects are no longer visible by the MMD Camera
+* Vending Machine is fixed!!
+
+Minor Update (2/23/25)
+* Added a text block showing the currently selected stage
+* Revised text billboards in an attempt to be easier to read & understand
+* Revised FAQ
+    * Rewrote entire FAQ
+    * Added missing questions
+    * Added definitions
+* Performance Enhancements
+    * Replaced majority of Mesh Colliders with Box Colliders
+    * Removed some Mesh Colliders
+    * Disabled Mesh Compression
+* Fixed the Spectator Lights not working 
+* Added STOP buttons to the Concert Stage & Merry Chrysler Stage
+* The Merry Chrysler Stage is now the default stage
+* Fixed Sofa Stations (used the SoapCat as a base)
+
+Minor Update (2/20/25):
+* Added my TikTok username: pinecone6942
+* TikTok did not like 69420
+* If you post content w/ my world on TikTok, use the hashtag #pineconeMMD so that I can see your posts!
+
+Minor Update (2/16/25):
+* Added STOP buttons to the Living Room Stage when the normal STOP button is not accessible.
+
+Update (2/15/25)
+* Added Cute Medly - Project Diva
+*    Fixed Camera not showing the dancer in some parts of the song
+* Added Hai Yorokonde - Janky asf since I had to stitch two animations together and loop them
+* Fixed Dance Pads Default Position not being the default position
+
+No more songs will be added due to the Soft File Size Limit. While I can upload worlds over 200MB on PC, there's a chance they won't be available through the Public Tab. Since I want to keep this world as accessible as possible, I don't want to add any more songs. This does not mean that I won't replace songs however. Short songs & songs I don't like have higher priority.
+
+Minor Update (2/11/25)
+* Added Dangrous Party - Slightly NSFW so 18+ only.
+
+Minor Update (2/7/25):
+* Added 3 Dancer version of Echo. The original Motion Creator seems to have taken it down but there's re-uploads elsewhere.
+
+If you are the ORIGINAL motion creator and don't want this on VRChat, join the discord and send a message there.
+
+Minor Update (2/6/25):
+
+* Removed Candy Store as it was short and would have probably not allowed me to upload the map w/ the new motion this update adds
+* Added Cantarella by Kurousa - P
+    * Had to manually arrange the dance pads so avatars may not match up with the other dancer, even the NPCs don't match.
+    * The motion was made with specific height characters (and ofc not every avatar is the same height)
+* The Concert Stage has gained the ability to use The Force. It also has been placed in housed supervision.
+
+Minor Update: (1/30/25):
+* Added the English Cover of Okinimesumama. I took the audio from the YouTube video & the YouTube Music audio by Trickle and combined them both.
+* Added Polaroid Camera
+* Added 3 World Portals - These lead to Public Instances
+
+Minor Update (1/29/25):
+* Added Candy Store as suggested by the Discord. You should join! QR codes are scattered across the map.
+* The Dance Pads somehow got the ability to use The Force again. They are now under housed supervision.
+
+*** CRITICAL BUGFIX***
+
+* Fixed MMD Camera not rendering other players when dancing.
+
+Turns out the PlayerLocal layer was not enabled by default in the MMD Camera.
+
+I decided to finally test multiplayer on my maps and saw that there was a long standing issue that no one has seemed to address to me, so maybe it didn't bother people or you are amongst the group of people that play VRC in SinglePlayer or it only affects me lmao
+
+Regardless, you can FINALLY play with other peeps on this map correctly!!
+
+Apparently I don't need to apply this fix, but it doesn't work without it so *shrug*
+
+Major Update (1/29/25):
+There are now 5 dance pads. Fukkireta, Caramell Dansen & PonPonPon have 5 dancers now.
+* Dance Pads' ability to use The Force has been revoked due to violating Probation.
+* Player Pads @ MMD Selection have been moved back a bit
+* Concert Stage has been moved forward a bit to compensate for Motions that move dancers beyond the dance pad
+* Added a Toggle for the MMD Screen on the Concert Stage
+* Created a system that will move Dance Pads and NPCs when a motion requires a specific dancer arrangement
+
+Major Update (1/28/25):
+* The Dance Controllers were allowed to use The Force and levitate Players whenever a dance was started. NPCs are not affected by this since they are not a Player. This has been fixed.
+* ReSpawn in front of Song Selection works now. (The trigger was ever so slightly off of the floor)
+
+Minor Update (1/28/25)
+* Fixed Bear Chair Texture not rendering properly
+* Added a STOP button to the Theatre
+
+Minor Update (1/26/25):
+* Fixed Stage Controller
+* Fixed Teleport "Buttons"
+* Fixed AudioLink Lights not toggling when Concert Stage is active
+
+Minor Update (1/25/25):
+* Re-Organized MMD list to place Cross Compatible Songs first
+* Fixed respawn not placing you in front of Song Selection
+
+New Map Update:
+
+I decided to recreate the map from scratch. Here's a summary of what's changed:
+
+* New Spawn Area
+*    Added a billboard introducing the player to the map, and a new Stats Screen.
+*    The stats show how many songs, including cross-compatible songs are available. It also shows how many times you have joined.
+
+* New MMD Selection Area
+*    Replaced Cube Buttons with UI Buttons
+*    Added MMD Preview when playing a song
+
+* New Spectator Theatre
+
+* New Stage Areas
+*    Living Room Stage w/ props
+*    Concert Stage w/ props
+*    Christmas Stage has not changed.
+
+* 3rd Person Camera - Recommended when playing an MMD
+* Camera + MMD Controls are now displayed. Press Tab to hide them. Android users are out of luck.
+
+There are easter eggs on this map. Try finding them!
