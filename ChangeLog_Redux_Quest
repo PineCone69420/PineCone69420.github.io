@@ -1,3 +1,33 @@
+Project Raindeer HotFix (12/3/25)
+
+IF YOU HAVE A SONG SUGGESTION, NOW IS THE TIME TO SUGGEST IT! THE KEYPAD, AND THUS THE VIP SUPPORTER WILL BE RETURNING ON JAN. 1!
+
+Part 1 Changes:
+* Updated Viva Happy's Camera because I didn't like the one it came with lol
+
+The following changes are across Part 1 and 2.
+
+Observers:
+* Reduced the amount of Debug messages thrown when loading in supporter lists
+* Supporter TV now has a button to refresh usernames. When you click this button, the map will download the latest usernames from the server, and apply them onto the TV!
+    * THIS DOES NOT MEAN ICONS WILL BE UPDATED. THOSE ARE STILL GOING TO BE HANDLED MANUALLY. SORRY.
+
+Other Changes:
+* Switched lighting to Color vs Gradient and disabled reflections (this removes the blueish hue that is seen on some geometry / avatars | this might fix your avatar issue Fen lmao, also hi Fen :3)
+* Updated Camera Heights for some songs. These were adjusted to the NPC height.
+* ChangeLog now loads in Dynamically. This means that the map will download the latest ChangeLog from the server so I don't have to copy and paste large text blocks 4 times.
+* Removed Text behind MMD Screen inside the Spectator Theatre
+
+The next update will fix the NPCs. I originally created prefabs without Physbones since World Dynamics were not out yet. The current implementation is very broken and I spent like 2 hours trying to get them to work.
+
+There's also a weird outline issue on the PC Soap NPCs that I need to fix. I also need to see about removing Blendshapes that will NEVER be used in hopes of saving some space.
+
+I will also address: Lighting, New Mirror System, create a Video Player System that integrates into the MMD Screen for the Scavenger Hunt Items and Tutorial, and idk what else.
+
+If you have a suggestion, feel free to let me know on the Discord Server!
+
+https://discord.gg/zSnbR5W5tR
+
 Project Raindeer(12/1/25)
 
 Information:
