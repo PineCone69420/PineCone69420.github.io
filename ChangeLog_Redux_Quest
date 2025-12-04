@@ -13,6 +13,7 @@ Observers:
     * THIS DOES NOT MEAN ICONS WILL BE UPDATED. THOSE ARE STILL GOING TO BE HANDLED MANUALLY. SORRY.
 
 Other Changes:
+* Snow has been reduced to 300 Particles.
 * Switched lighting to Color vs Gradient and disabled reflections (this removes the blueish hue that is seen on some geometry / avatars | this might fix your avatar issue Fen lmao, also hi Fen :3)
 * Updated Camera Heights for some songs. These were adjusted to the NPC height.
 * ChangeLog now loads in Dynamically. This means that the map will download the latest ChangeLog from the server so I don't have to copy and paste large text blocks 4 times.
