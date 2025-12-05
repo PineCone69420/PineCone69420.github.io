@@ -1,3 +1,19 @@
+Project Raindeer HotFix (12/4/25)
+
+NPCs:
+* Updated NPC Structure to easily update objects in the future via Prefabs vs GameObjects
+* Updated NPC Prefabs to include Physbones
+    * This means that PhysBones (crunchy bones because fiddles said so) are now set up properly vs having to connect them manually and reference a separate project
+* PC and Quest versions now have their proper meshes and materials set up from their original Unity Packages
+    * This means the Outlines for the SoapNPCs are now properly drawn (I forgot there was an Outline Mask... oopsie)
+    * The Sylvafen is using the Quest Mesh on PC since there's something wrong with the laces on the flannel for the PC version. 
+    * Also sorry, but the Sylvafen has like 7 materials and I don't plan to optimize it lol
+* NPCs have had their blendshapes set to how I like them. Sorry if you don't like Chunky Avatars w/ tits <3
+
+I will eventually update the Bunny so it doesn't have the hole in the top of its head.
+
+I also realized that Quest SoapDog NPCs use Floppy Ears vs Normal Ears so... it won't have Physbones till I add them back in. It is currently 12 AM as I write this and I need to go to sleep. Sorry.
+
 Project Raindeer MicroUpdate (12/4/25)
 
 I fixed the Camera Height Issue, I just copied the Presets from the Dev Maps. The World is now using SDK Version 3.10.0. Next update will introduce better NPCs.
