@@ -1,6 +1,6 @@
 Project Raindeer MicroUpdate (12/4/25)
 
-The world is now using SDK Version 3.9.1-beta2 to see if that fixes the issue with the Camera Height Values not applying in-game.
+I fixed the Camera Height Issue, I just copied the Presets from the Dev Maps. The World is now using SDK Version 3.10.0. Next update will introduce better NPCs.
 
 Part 1:
 * Added Bridge Footstep Sounds
