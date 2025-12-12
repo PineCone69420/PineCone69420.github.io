@@ -1,3 +1,18 @@
+Project Raindeer HotFix (12/11/25)
+
+NPCs:
+* Santa Clause came a bit early (paws...) and left the NPCs a present for their heads! (Thanks to Tonicc for letting me use thier asset! It's free and includes a snowball and a santa hat!)
+
+* Potato Chips are no longer Pickupable due to really bad physics interactions that push people
+* Removed FootStep when joining the map
+* Added Soap-Plush to Scavenger Hunt Prize
+* Added back Felons Wall since apparently Unity is stupid. (Thanks Luna)
+* The contact on the SoapCat Statue has been replaced with a button.
+* Mirrors have been replaced with Low and High:
+
+Low: SkyBox + Player & Remote Players (1X Anti-Ailasing)
+High: Map Geometry + Pickupables + Player & Remote Players (2X Anti-Aliasing)
+
 Project Raindeer HotFix (12/4/25)
 
 NPCs:
