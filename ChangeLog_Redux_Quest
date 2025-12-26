@@ -1,3 +1,40 @@
+Project Frost - (12/25/25)
+
+HO HO HO, GOOD OLD SAINT JOLLY NICK HAS BLESSED US THIS YEAR WITH AN UPDATE ON CHRISTMAS??
+
+It is also been 1 year (technically) since I started my VRChat & MMD Journey! Please watch the video I created on YouTube (since TikTok claimed my video) that describes were we started, and where we are now. I also recorded a FBT skit so you are legally required to watch it :3 (@PineCone69420 on youtube)
+
+Songs:
+
+* All I want for Christmas - You know who.
+* Born Ready - Zayde Wolf
+* Bye Bye Bye (Full) - NSYNC (free as per the motion creators request, say thanks to Huskey1225 for purchasing this for you all!)
+* Caramell Christmas - Caramella Girls
+* Follow the Leader - Wisin & Yandal
+* Levan Polkka - Otomania
+* Silent Scream - Anna Blue
+* The Muffin Song - Schmoyoho (NPCs ONLY SORRY READ WHY BELOW)
+* Under our Spell - Equestria Girls
+* White Happy - MARETU
+* Lava Chicken - The Minecraft Movie
+
+The Muffin Song is NPCs only due to how the motion was created. Instead of moving the player underneath the map, it keeps the player frozen in the camera view until they are needed to play their part. I could fix this in MMD or in Unity by just moving the stations, but that moves the view point and I don't know how to lock the viewpoint in place.
+
+If you know how to move stations without moving the viewport, or manually adjust the transforms of the ANIMATION DATA ITSELF, let me know on Discord / TikTok.
+
+Changes:
+* Chittari replaces Sylvafen (Quest World will use the PC version till Asper releases the Quest Version) Thanks Asper for letting me use The Chittari!
+* Swapped SoapCat's texture thanks to a Community Member,
+* Extra NPCs for The Muffin Song have their Shading set to Realistic Soft & textures swapped on Quest.,
+* Merry Chrysler Stage makes a return for the ONE YEAR anniversary :3
+* Added a surprise. It involves her defrosting.
+* Added a contact to disable the statue for the horny fucks out there. I KNOW YOU'RE OUT THERE. 3:<
+* Fixed Avatar Scaling not working on PortablePanel
+* Reduced Player Icon Textures to 512 on Quest (sorry) Also Player Icons are open again :3
+* Removed one Context from the Context-Inator (it was the one about stool.)
+
+Thank you to everyone that was a part of my VRChat and MMD Journey. Without you, this wouldn't have been possible.
+
 Project Raindeer Emergency Update (12/21/25)
 
 * Fixed Felons Wall gaining sentience and constructing itself. (Did not set the right layers lol)
