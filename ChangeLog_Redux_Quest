@@ -1,3 +1,21 @@
+Project Frost MicroUpdate - 12/26/25
+
+Bug Fixes:
+* Fixed bridge showing on MMD Camera (Thanks again Luna!)
+* Fixed Chittari Size not being set correctly
+
+Changes:
+* Removed Christmas Gag - It was triggering as soon as you joined and I honestly don't like how I implemented it
+* Lowered Player Icons a bit (Supporter Only)
+* Re-Installed FullScreenCanvas in hopes of it being fixed (probably not, might also be broken because the Unity Canvas sucks)
+
+Motion Changes:
+* Lava Chicken:
+    * Added a village, cooked chicken, and fixed the camera.
+    * The village is only visible through the MMD Camera since it would be blocking the controls. Also, no one has created the village used in the movie, along with the cooked chicken.
+* Follow the Leader:
+    * Added a camera and swapped the MP3 to the original song.
+
 Project Frost - (12/25/25)
 
 HO HO HO, GOOD OLD SAINT JOLLY NICK HAS BLESSED US THIS YEAR WITH AN UPDATE ON CHRISTMAS??
