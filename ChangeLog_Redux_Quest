@@ -1,3 +1,76 @@
+Project Horizon - (2/1/26)
+
+I am running out of wacky and silly things to say. You know the drill.
+
+REMINDERS:
+
+NO UPDATE MEETUP BC HOTSPOT IS BAD
+
+* I still don't have internet at home. I probably won't be able to pay it and that means I'll be without internet at home for a while. Which means hotspot. Yay.
+* The Macarena was sourced from Fortnite. If you have complaints about how the dance is "incorrect", please send your strongly worded letters to Epic Games.
+* Please report any bugs to the Discord Server, thanks!
+
+NEW MOTIONS:
+
+Come Alive - Mutrix ft. Charity Vance (The Two Friends Remix)
+Dancing Rat - Joyful
+DunDun - Everglow
+Free - K-Pop Demon Hunters
+Levels - Avicii (RIP)
+Magnet - minato (SFW, Supporter Only!)
+Me!Me!Me - TeddyLoid feat. DAOKO (VERY SUGGESTIVE, SUPPORTER ONLY!) (I added this and realized way too late lmao, 100% my fault. sorry.)
+Rather Be - Clean Bandit ft Jess Glynne
+Takedown - HUNTR/X
+The Macarena - Los Del Rio
+Timber - Pitbul ft. KE$HA
+Wiggle Wiggle - HELLOVENUS (VERY SUGGESTIVE, SUPPORTER ONLY!)
+
+---
+
+CHANGES:
+
+Stages:
+* Replaced Merry Chrysler with Anime Classroom
+* The classroom has some broken geometry on the windows and door, I have tried to fix it as best I could without going into Blender. Unless you pay attention you won't even notice it.
+* Replaced Sprawling City with Alleyway
+* Some textures have been replaced since they mention adult locations. This stage also has broken geometry. I have tried to fix it the best I can.
+* Replaced Skyboxes
+
+Keypad:
+* Re-Enabled keypad - The KeyPad allows VIP Supporters to access Premium Songs. Locked Premium Songs are denotated with a differnt color.
+* Reminder to VIP Supporters: The code can be found on the ⁠vip-code channel on the Discord server, or behind the PortablePanel if you've submitted your username to the Discord Server!^
+
+Other:
+* Replaced Easter Egg Audio with a classic (I am aware of what happened to CallMeCarson, I don't want to hear it. The focus is JunkyJanker anyways.)
+* Re-Wrote text quad near the keypad to be clear and concise about NSFW motions being used in public instances & minors
+* Added an AudioZone toggle
+* Added a Transparent Mirror per a player's request
+* Swaped some shaders to Toon Standard
+* Re-Generated Network IDs
+* Rewrote text blocks
+* Performance improvements
+
+---
+
+FIXES:
+
+* Fixed Music Author Text clipping on Quest
+* Fixed NPCs clipping through the floor
+    * NPCs / Players may still clip through or above the floor. This is due to the animation data, there is nothing I can do about this due to my lack of understanding of the Unity Animation System.
+* Fixed FullScreenCanvas not working with multiple players on Desktop
+* Fixed Stage positioning to match each platform (Quest users were underneath PC users in certian stages)
+* Removed Herobrine
+
+---
+
+BUGS:
+
+* Some cameras glitch out and idk why. </3
+* NPCs / Players may still clip under or above the floor.
+* Respawning objects may be broken. This may be related to VRC pushing an update for the VRC Pickup Component recently.
+
+^ - Spawn the PortablePanel by holding your hands close together, fully press your grip buttons, then spread your hands to scale the panel. If it doesn't work, make sure the toggle labled "Toggle Portable Panel Gesture" is CHECKED!
+
 Project Frost Update - 1/14/25
 
 REMINDERS:
