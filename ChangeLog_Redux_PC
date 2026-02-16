@@ -1,3 +1,22 @@
+Project Horizon MicroUpdate (2/15/26)
+
+QUEST CHANGES:
+* Added a missing text block about some Pins on Quest
+* Added 2 missing pins (Quest, Supporter Only because NSFW)
+* Updated a text block on the MMD Screen Controls (Quest)
+
+CHANGES:
+* Swapped some shaders + moved some geometry to hopefully fix flickering textures on Quest (this will swap the shaders for PC as well since some assets are shared between both platforms)
+* Replaced all ProBuilder Posts with the VRChat Standard Lite (GPU Instancing Enabled, hoping this reduces Draw Calls)^
+* Enabled GPU Instancing for the Bear Charis (Again, in hopes of reducing draw calls)^
+* Updated Supporter Codes
+
+FIXES:
+* Fixed Respawn Objects Button (Quest)
+* Fixed Icon under Folaroid (PC)
+
+^ The Unity Profiler does not accurately report information due to not having the Source Code for VRChat. So the numbers it spits out may be wrong.
+
 Project Horizon MicroUpdate (2/10/26)
 * Fixed stairs to hangout area (sorry)
 * Updated player icons
