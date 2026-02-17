@@ -1,3 +1,27 @@
+Project Horizon MicroUpdate (2/16/25)
+
+HOTFIXES:
+* Fixed Easter Egg (PET Art and Bunny)
+* Removed some geometry on the Classroom and further addressed flickering textures (Quest)
+
+QUEST CHANGES:
+* Replaced Picture Frames with a different asset since this will help me move the plane that holds the picture to reduce flickering. (Quest)
+* Swapped some shaders again. Hopefully this fixes the remaining flickering textures? (Quest)
+
+CHANGES:
+* Added a few easter eggs. Your hints are boobs. balls, and Trans. (SFW I PROMISE!)
+    * You'll need to use your head / hands / torso to activate these. Some are head OR hands OR torso only.
+    * We here at PineCone Enterprises do NOT condone smoking.
+    * (PET art by Possessed Pasm)
+    * Thanks to Dispair and Doughboy for the inspiration of these easter eggs!
+    * Oh yea, one easter egg is dedicated to someone for being SUPER AWESOME! idk if they want to mentioned but you know who you are :3
+* Updated Player Icons
+
+FIXES:
+* Fixed Schizophrenia Simlulator.
+* Replaced Wiggle Wiggle with files from MMD AfterDark (Thanks TheMCPanda & to Papa Emeritus III ‘Terzo’ for letting me know about this being stiff and wonky!)
+* Fixed FullScreenCanvas not sizing the canvas correctly
+
 Project Horizon MicroUpdate (2/15/26)
 
 QUEST CHANGES:
