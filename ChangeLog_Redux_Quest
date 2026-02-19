@@ -3,7 +3,8 @@ Project Horizon MicroUpdate (2/18/26)
     * Sorry but a lot of good assets are paid and I owe money to cashapp so I can't use the donation money atm. Once I start this job at Amazon I will be able to purchase better assets and make it very cool :3
 * Re-Baked Occlusion Culling
 * Swapped some Shaders to Toon Standard / Standard Lite
-* Reduced resolution of some textures causing the world size to increase by A LOT
+* Reduced resolution of some textures causing the world size to increase by A LOT.
+    * Sorry but we are now hitting the Quest Limit so I need to reduce the resolution for Quest by A LOT. Blame VRC & Meta, not me.
 * Added a toggle for the Schizophrenia Simlulator. It has persistence so you won't need to disable it every time.
 
 Project Horizon MicroUpdate (2/16/25)
