@@ -1,3 +1,11 @@
+Project Shrimp HotFix 3 (3/4/26)
+
+* Fixed Keypad not working
+* Fixed Text Overlap on the Front Chalkboard in the Classroom stage
+* Adjusted Private Room code (only for PineCone, read the last changelog for more information)
+* Re-Baked Ocllusion Culling
+* Removed un-needed Font from World Information Panel
+
 Project Shrimp HotFix 2 (3/3/26)
 
 * Fixed wall on Lie Detector (PC)

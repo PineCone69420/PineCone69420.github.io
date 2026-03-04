@@ -1,3 +1,20 @@
+Project Shrimp HotFix 3 (3/4/26)
+
+* Fixed Keypad not working
+* Fixed Text Overlap on the Front Chalkboard in the Classroom stage
+* Adjusted Private Room code (only for PineCone, read the last changelog for more information)
+* Re-Baked Ocllusion Culling
+* Removed un-needed Font from World Information Panel
+
+Project Shrimp HotFix 2 (3/3/26)
+
+* Fixed wall on Lie Detector (PC)
+* Bandaid Fix on the Overlay not enabling | Click on the button above the chalkboard if the overlay is not enabled when playing a motion
+* Temporarily disabled Private Rooms since Luna thinks they are breaking the map due to the Floating Point Bug with Computers and Unity.
+    * I re-worked the script and only enabled access to myself so I can try this on my own and see if that fixes anything.
+* Added buttons to open the Group Page | You're welcome Luna
+* Fixed Timestamps on some Songs
+
 Project Shrimp HotFix 1 (3/2/26)
 
 * Fixed World Information Panel not rendering Icons & Font correctly
