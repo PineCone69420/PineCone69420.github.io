@@ -1,3 +1,14 @@
+Project Shrimp MicroUpdate 3 (3/5/25)
+* Private Rooms have been updated to use Integers. In the ClientSim they still use Floating Point values but maybe in-game it will work.
+    * There is now a warning letting Quest Users know that they may crash when using the Private Rooms.
+    * If this still causes problems I may implement a different system that uses AudioZones instead.
+* Fixed Canvas on the Song Color Codes text causing the pointer laser to not let you enter keypad inputs unless you stood directly in front of the keypad.
+
+Project Shrimp MicroUpdate 2 (3/4/26)
+* Re-Enabled Private Rooms
+    * The Floating Point Bug is still present but much less noticable in my testing
+* Changed VIP Code due to failed renewals!
+
 Project Shrimp MicroUpdate (3/4/26)
 
 * Increased Height of Player Icons to 1.3
