@@ -1,3 +1,9 @@
+Project Shrimp MicroUpdate 4 (3/10/26)
+* Added a collider to the Private Rooms to prevent people from dropping in.
+* Hopefully fixed the Overlay dissapearing when playing a motion while players stand outside the Stage Area.
+    * The script now checks to see if the local player is standing in the areas, and if they are, then disable them. Otherwise, keep them enabled.
+* Updated player icons
+
 Project Shrimp MicroUpdate 3 (3/5/25)
 * Private Rooms have been updated to use Integers. In the ClientSim they still use Floating Point values but maybe in-game it will work.
     * There is now a warning letting Quest Users know that they may crash when using the Private Rooms.
