@@ -1,3 +1,9 @@
+Project Shrimp MicroUpdate 5 (3/14/26)
+* Updated Usernames and Player Icons
+* Increased Player Icon Height by 0.03 units
+* Fixed FullScreenShader showing 2 duplicate outputs (whoops)
+* Fixed Overlay Toggle not showing up on all 4 stages (the toggle that enables the overlay in case it dies)
+
 Project Shrimp MicroUpdate 4 (3/10/26)
 * Added a collider to the Private Rooms to prevent people from dropping in.
 * Hopefully fixed the Overlay dissapearing when playing a motion while players stand outside the Stage Area.
