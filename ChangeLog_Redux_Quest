@@ -1,3 +1,46 @@
+Project Cosmos (5/1/26)
+
+RAH! NO MORE TRAILERS BECAUSE THEY ARE TOO MUCH WORK!
+
+New Motions:
+
+Cake - Melanie Martinez
+DECORATOR - livetune
+Good Vibrations - Ephwurd (18+)
+Here It Goes - OK Go
+I Like to Move It Move It - Nicola Fasano (18+)
+Mary On a Cross - Ghost
+Primary Star - Reno
+Telephone - Mellowcle
+Watch Me (Just Dance) - Silent6
+Test MMD Blendshapes - Nero
+
+9 motions because size limts.
+
+NOTE: 18+ MOTIONS REQUIRE YOU TO AGE VERIFY ON THE DISCORD SERVER TO GET ACCESS TO A SEPARATE CODE. NO EXCEPTIONS!!! NO YOU DON'T NEED TO SHOW YOUR FACE!
+
+There are NO VIP songs this month. Sorry.
+
+CHANGES:
+
+FullScreenShader:
+* Reworked FullScreenCanvas to hopefully have it working properly! (mostly)
+* Added a button to enable the VRC Camera Sphere in VR
+    * This enables you to take a picture / record a video of the MMD Screen without background assets.
+* Pressing L on Desktop/Mobile disables the FullScreenCanvas in the event you're unable to fully disable it. If you break it in VR, please tell me how so I can fix it.
+
+OTHER:
+* Added Test MMD Blendshape motion by Nero. Thanks again :3
+* Group Instance Rules added to spawn to comply with VRC TOS.
+* Added some information about facial expressions not working next to the keypad
+* Modified keypad to accept 2 codes
+* 2 skyboxes are now 512p because size limits.
+
+Project Fool MicroUpdate (4/17/26)
+* Updated Usernames and Player Icons
+
+I fucked up the project so if something is broken, please let me know!
+
 Project Fool MicroUpdate (4/6/26)
 * Updated VIP Code & Usernames
 
