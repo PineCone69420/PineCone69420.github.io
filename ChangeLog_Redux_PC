@@ -1,3 +1,22 @@
+Project Cosmos Emergency HotFix (5/11/26)
+* Fixed KeyPad not unlocking Spicy Songs due to error in scripting logic. I am so sorry!
+
+Project Cosmos HotFix 3 (5/10/26)
+
+I apologize for the map being somewhat broken. This is my fault and I have not been doing well. Regardless, I hope you enjoy the fixes :3
+
+* Fixed Good Vibrations Camera (PC)
+* Fixed I Like to Move It breaking your legs
+    * I re-converted the VMD using a different motion type and it seems to be working :3
+* Fixed Keypad being funky between PC and Quest
+    * When unlocking spicy songs on PC, Quest would instead have VIP songs unlocked. and vice versa. I reworked the logic and this should fix it.
+* Fixed Admin Microphones not working since implementation (thanks map testers... /j)
+    * It has been replaced with a toggle that only Admins can access. You will be able to see the mics and grab them, but we will toggle them off globally if you mess with them.
+* Adjusted AudioZone for Admin Microhpone to not be super loud-
+* If you see that your cookie is missing, you can blame Plasim. Ask him to give it back. If he says no, you'll need to get him to leave in order for a new one to appear.
+* Updated Usernames and Icons
+* Updated Network IDs
+
 Project Cosmos HotFix 2 (5/2/26)
 
 * Fixed Spicy KeyPad Logic
