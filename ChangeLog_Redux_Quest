@@ -1,4 +1,11 @@
-Project Cosmos Emergency HotFix (5/11/26)
+Project Cosmos MicroUpdate (5/12/26)
+* Updated Textures and Materials for SoapDog NPC
+    * I forgot that there was a prefab for the Premade Shep model... and the materials have been wrong this entire time.
+    * The PC Mesh is different from the Quest Mesh so... you will see different meshes between platforms till I fix it. Sorry.
+    * IronicSoap provided a fixed texture for the floppy ears.
+    * I will experiment with using PC Meshes for the SoapDog / SoapBunny as well... IronicSoap has no plans to release the Quest Mesh that's on the Avatar Marketplace </3
+
+Project Cosmos Emergency HotFix 1 (5/11/26)
 * Fixed KeyPad not unlocking Spicy Songs due to error in scripting logic. I am so sorry!
 
 Project Cosmos HotFix 3 (5/10/26)
