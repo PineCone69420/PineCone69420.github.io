@@ -1,3 +1,56 @@
+Project AfterGlow (6/1/26)
+
+Rawr! I am a silly evil kitty cat! Anyways, here's the lastest update from PineCone Enterprises: Project AfterGlow!
+
+PLEASE CHECK THE BOTTOM OF THE CHANGELOG FOR CURRENT BUGS!
+
+New Motions:
+
+A Light that Never Comes - Linkin Park x Steve Aoki
+Bird Brain - Jamie Paige & OK Glass
+Boom Clap - Charli XCX (18+)
+Cherry Pop - DECO * 27
+Confessions of a Rotten Boy - YaboiMatoi (SAWTOWNE)
+Iris Out - Kenshi Yonezu
+Love Shot - SAWTOWNE
+Mãos para cima! - Mellowcle (VIP)
+Moto Moto Meme
+Taki Taki - DJ Snake
+Show and Tell - Melanie Martinez
+Wrap Me in Plastic - CHROMANCE
+
+NEW FEATURE: Fade to black before Motion Start!
+ * If a player is standing on a dancepad, and they start a motion, the screen now fades to black and fades out to lower the potential motion sickness from being teleported instantly from the MMD Area to the Stage area.
+ * I also added it because Nero did lmao
+
+NEW STAGE!
+* Added Blue Letter Stage
+* Removed Classroom Stage
+
+OTHER CHANGES:
+* Fixed Admin Microphone
+* Fixed Plasim eating your cookie
+* Fixed LQ Toggle (Quest)
+
+* Replaced Pumpkins with a SoapCat & SoapPlush for you to throw and shit idk
+   * Do not the SoapCat and SoapPlush. We will find you.
+
+* Replaced Test MMD Blendshape Font with an Outline to better see when a bright avatar is present
+* Added Secret Asset & Folaroid to the Toggle Objects button in Supporter Area
+* Removed Schitzophrenia Simulator as the Classroom Stage is no longer available
+
+* Swapped some images in various areas
+* Swapped Skyboxes for stages again
+* Updated text blocks
+* Re-Hired Scary Larry
+
+CURRENT BUGS:
+
+* The Stripper Pole doesn't line up with the avatar. This is beacuse the motion was meant for use with a smaller, thinner model.
+    * The solution is to use AI to modify the motion so that it fits your avatar perfectly. This brings a lot of problems however so... sorry.
+* Keypad doesn't unlock songs for other players (I checked the code, nothing seems wrong.)
+* SoapCat and SoapPlush colliders may act weird (the size is a lot smaller than in the editor)
+
 Project Cosmos MicroUpdate (5/12/26)
 * Updated Textures and Materials for SoapDog NPC
     * I forgot that there was a prefab for the Premade Shep model... and the materials have been wrong this entire time.
