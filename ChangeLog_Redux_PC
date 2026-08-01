@@ -1,3 +1,54 @@
+Project SunShine (8/1/26)
+
+For those that have been asking for the throwback update... here you go!
+The songs were picked by the community so if you're wondering why your song wasn't picked... you didn't vote for it, or the wheel deemed the song not worthy.
+
+PLEASE WATCH THE VIDEO AT SPAWN OR ON MY YOUTUBE CHANNEL AS THE FUTURE OF PINECONE ENTERPRISES AND THE MAPS IS UNCERTIAN!!!
+
+Throwback Motions:
+
+A Horny Money World - Marine Ch. 宝鐘マリン
+Alastor's Game
+Bye Bye Bye - NSYNC
+Classic - MKTO
+Cry For Me - HalaGC
+Emperors New Clothes - NateWantsToBattle
+Iris Out - Kenshi Yonezu
+Its Been So Long - The Living Tombstone
+Just The Way You Are (VIP) - Milky
+Miku Mambo - AlexTrip Sands
+Patchwork Staccato - Toa Official
+U Got Dat - Halogen
+
+STOP THE PLAYER QUAD:
+* Since some of you do not READ I am now forcing you to read as I will not have access to my PC soon, which means no more map updates until further notice.
+    * Please watch the video at spawn, or read the text on the Quads to find out more information about what's going on with me having no access to my PC soon.
+
+NPC CHANGES:
+* I finally implemented the new NPC Layout so that Quest doesn't see awful NPCs anymore.
+    * If a Quest version is not available, the PC version will be used with Toon Standard Flat Shaders.
+    * Exception is the SoapCat. I am too lazy to create a Quest Orange Variant.
+    * NPC Physbones cannot be grabbed, posed, or collided with because <i>I know what you are.</i>
+* NPCs used with permission by their respective creators. Thank you to these creators for allowing your models to be used as NPCs on my maps!
+
+SUPPORTER CHANGES:
+* The Supporter Table has been moved a bit to make room for the new sign explaining how to donate via CashApp.
+    * DONATING ON CASHAPP WILL NOT GRANT YOU VIP STATUS AS I WILL NOT HAVE ACCESS TO MY PC SOON!
+* Updated text blocks to better explain the perks you get as I won't be able to fufill some of them.
+* New Plushies :3
+* Reorganized Toggle Buttons
+* The feature of the VIP coding showing up if you submitted your username is no longer available due to me being unable to update the list as I am moving.
+
+OTHER CHANGES:
+* Fixed Transparency issue on Rainbow Stage
+* Fixed KeyPad playing sounds when players join / exit
+* KeyPad now unlocks when a Supporter joins the world
+* Added icons and fixed font on the World Information Panel
+    * SoapCat icon belongs to IronicSoap
+    * Unity icon belongs to Unity Technologies
+    * Unofficial VRC Icons were created by Kuroné Kito
+* Increased Player Icon height
+
 Project Ultra HotFix 1 (7/20/26)
 
 BUG FIXES:
